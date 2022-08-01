@@ -11,4 +11,4 @@ pip install -r lib.txt
 |            Name               | Github Profile
 |-------------------------------|----------------------------
 |Nguyen Hoang Lam | [@Hoanglam1134](https://github.com/Hoanglam1134)            
-|Tuyet Mai | [@tm1111](https://github.com/NguyenHiu)   
+|Tran Thi Tuyet Mai | [@snowmei270502](https://github.com/snowmei270502)   
