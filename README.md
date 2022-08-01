@@ -8,7 +8,7 @@
 pip install -r lib.txt
 ```
 ## About our team
-|            Name               | Github Profile
-|-------------------------------|----------------------------
-|Nguyen Hoang Lam | [@Hoanglam1134](https://github.com/Hoanglam1134)            
-|Tran Thi Tuyet Mai | [@snowmei270502](https://github.com/snowmei270502)   
+|            Name               | Github Profile             | Role                   |
+|-------------------------------|----------------------------|------------------------|
+|Nguyen Hoang Lam | [@Hoanglam1134](https://github.com/Hoanglam1134) | Add proxy and multiprocessing           
+|Tran Thi Tuyet Mai | [@snowmei270502](https://github.com/snowmei270502) | Crawling data and analytic
