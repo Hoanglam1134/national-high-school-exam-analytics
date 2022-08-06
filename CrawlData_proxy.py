@@ -35,7 +35,7 @@ def crawl(min, max, idx, proxies):
 			print('proxies_list is empty')
 			return
 		proxy_idx = random.randint(0, len(proxies)-1)
-		URL = "https://thptquocgia.edu.vn/diemthi/?sbd="+str(sbd)
+		URL = "https://thptquocgia.edu.vn/diemthi/?sbd="+str(sbd).zfill(8)
 		proxy = proxies[proxy_idx]
 		page = requests.post(URL, proxies=proxy)
 		soup = BeautifulSoup(page.content, "html.parser")
@@ -62,7 +62,7 @@ def crawl(min, max, idx, proxies):
 
 if __name__ == '__main__':
 	num_processes = 4 #8
-	min = 10000001
+	min = 1
 	max = 64006588
 	num_proxies = 5
 	list_process = []
