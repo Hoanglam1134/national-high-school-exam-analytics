@@ -1,9 +1,11 @@
 # Crawling and Analyzing 2022 National High School Exam Result
 ## Script to crawl data
-- [CrawlData_proxy](https://github.com/Hoanglam1134/data-crawling/blob/9199d4ea9902660186e50489753b22a82e2decb7/CrawlData_proxy.py): Using Proxy and Multiprocessing to crawl (continue...)
-- [CrawlData](https://github.com/Hoanglam1134/national-high-school-exam-analytics/blob/5d18756a013607afece72093712ce70bbb917fdb/CrawlData.py): Simple way of crawling data from website.
+- [CrawlData_proxy](https://github.com/Hoanglam1134/data-crawling/blob/main/CrawlData_proxy.py): Using Proxy and Multiprocessing to crawl (continue...)
+- [CrawlData](https://github.com/Hoanglam1134/national-high-school-exam-analytics/blob/main/CrawlData.py): Simple way of crawling data from website.
 ## Analytics
-Check [EDA_diemthithptqg.ipynb](https://github.com/Hoanglam1134/national-high-school-exam-analytics/blob/a933cc6ee1d4e712e218bb7df6c8027dd114c66e/EDA_diemthithptqg.ipynb) for more details.
+![alt text](https://github.com/Hoanglam1134/national-high-school-exam-analytics/blob/main/images/demo1.png?raw=true)
+![alt text](https://github.com/Hoanglam1134/national-high-school-exam-analytics/blob/main/images/demo2.png?raw=true)
+Check [EDA_diemthithptqg.ipynb](https://github.com/Hoanglam1134/national-high-school-exam-analytics/blob/main/EDA_diemthithptqg.ipynb) for more details.
 ## Install some required library
 ```console
 pip install -r lib.txt
